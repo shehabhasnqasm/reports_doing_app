@@ -1,17 +1,8 @@
-# reports_doing_app
+This app cover:
 
-A new Flutter project.
+- Firebase authentication, firebase firestore and storage to save reports and users data.
+- Share and send dialy reports with others by email.
+- State management: cubit.
+- Using  provider.
+- Design pattern : clean architecture.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# reports_doing_app" 
