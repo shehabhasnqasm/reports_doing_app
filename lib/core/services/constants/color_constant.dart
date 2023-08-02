@@ -24,14 +24,5 @@ class Constants {
     "Digital marketing"
   ];
 
-  // static List<String> programmingjobsList = [
-
-  //   "Team Leader",
-  //   "Designer",
-  //   "Web designer",
-  //   "Full stack developer ",
-  //   "Mobile developer",
-  //   "Marketing",
-  //   "Digital marketing"
-  // ];
+  
 }
